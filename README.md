@@ -1,6 +1,6 @@
-![financial_crime_projects](og_banner.png)
+![AML Portfolio Banner](og_banner.png)
 
-## 👋 Hi, I’m Kim
+## About Me
 
 I am an Anti-Money Laundering (AML) and financial crime compliance professional with over nine years of experience in Canadian financial institutions and fintech/crypto advisory environments. My focus is on transaction monitoring, risk assessment, regulatory compliance, and the application of data analytics to strengthen financial crime detection and control frameworks.
 
